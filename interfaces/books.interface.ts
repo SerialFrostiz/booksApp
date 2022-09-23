@@ -5,4 +5,5 @@ export interface Book{
     readonly image: string;
     readonly preview: string;
     readonly buy: string;
+    readonly id: string;
 }

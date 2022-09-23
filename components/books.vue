@@ -1,8 +1,7 @@
 <template>
-  <div>
-    <input v-model="search">
-    <div>choix : {{ search }}</div>
-  </div>
+  <v-container>
+    
+  </v-container>
 </template>
 
 <script lang="ts">
